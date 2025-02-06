@@ -1,4 +1,4 @@
-![XKCD][https://raw.githubusercontent.com/brianlzhou/brianlzhou/xkcd-time_everything.png]
+<img src="xkcd-time_everything.png" alt="Description of the image" style="display: block; width: 100%; height: auto;">
 
 <!-- ## Hi there 👋 -->
 
