@@ -1,4 +1,6 @@
-## Hi there 👋
+![XKCD][https://raw.githubusercontent.com/brianlzhou/brianlzhou/xkcd-time_everything.png]
+
+<!-- ## Hi there 👋 -->
 
 <!--
 **brianlzhou/brianlzhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
