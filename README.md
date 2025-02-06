@@ -1,4 +1,4 @@
-<img src="xkcd-time.png" alt="Description of the image" style="display: block; width: 100%; height: auto;">
+<img src="xkcd_time.png" alt="Description of the image" style="display: block; width: 100%; height: auto;">
 
 <!-- ## Hi there 👋 -->
 
